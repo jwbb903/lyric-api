@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/v2/music/tencent/lyric",
+      "destination": "/api/lyric"
+    },
+    {
+      "source": "/v2/music/tencent/lyric/",
+      "destination": "/api/lyric"
+    }
+  ]
+}
